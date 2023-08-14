@@ -1,7 +1,11 @@
 ## Hi people, I am Gabriel Goes, a student who is discovering the world of IT development!
- 
- <p>Let's do this, no pain no gain... 💪</p>
- 
+
+
+>Let's do this, no pain no gain... 💪
+
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goestoso&show_icons=true&theme=monokai&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goestoso\&layout=compact&theme=monokai)
 
