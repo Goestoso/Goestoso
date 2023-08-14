@@ -1,4 +1,4 @@
-## Hi people, I am Gabriel Goes,a student who is discovering the world of IT development!
+## Hi people, I am Gabriel Goes, a student who is discovering the world of IT development!
  
  <p>Let's do this, no pain no gain... 💪</p>
  
