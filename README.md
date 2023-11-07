@@ -18,8 +18,9 @@
  ### Main skills:
 
   <img align="center" alt="Goes-Excel" height="auto" width="auto" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">   
+  <img align="center" alt="Goes-Python" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img  align="center" alt="Goes-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" > 
-   <img align="center" width="40" height="50" src="https://github.com/Goestoso/Goestoso/assets/132786474/ed5a4229-9b1d-4277-91dd-3fe359b9eeee" alt="Panda">
+  <img align="center" width="40" height="50" src="https://github.com/Goestoso/Goestoso/assets/132786474/ed5a4229-9b1d-4277-91dd-3fe359b9eeee" alt="Panda">
   <img align="center" alt="Goes-HTML" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> 
   <img align="center" alt="Goes-JS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
   <img align="center" alt="Goes-CSS" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" >
