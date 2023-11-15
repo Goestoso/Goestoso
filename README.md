@@ -15,7 +15,7 @@
           
 <div align="center" >
 
- ### Main skills:
+ ### Languages:
 
   <img align="center" alt="Goes-Excel" height="auto" width="auto" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">   
   <img align="center" alt="Goes-Python" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
