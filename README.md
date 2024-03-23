@@ -73,7 +73,7 @@
 
 ##
 
-<img width="100%"  height="400px" src="https://github.com/Goestoso/Goestoso/assets/132786474/3d104b12-685a-4848-8c95-45619fe83ecb">
+<img width="100%"  height="300px" src="https://github.com/Goestoso/Goestoso/assets/132786474/3d104b12-685a-4848-8c95-45619fe83ecb">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900C3F&height=120&section=footer"/>
 
