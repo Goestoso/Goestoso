@@ -17,7 +17,6 @@
 
  ### Languages:
 
-  <img align="center" alt="Goes-Excel" height="auto" width="auto" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">   
   <img align="center" alt="Goes-Python" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img  align="center" alt="Goes-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" > 
   <img align="center" width="40" height="50" src="https://github.com/Goestoso/Goestoso/assets/132786474/ed5a4229-9b1d-4277-91dd-3fe359b9eeee" alt="Panda">
@@ -33,13 +32,28 @@
 ### Tools:
 
 <img align="center" alt="GitHub" height="38" width="auto" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" >
-
 <img align="center" alt="VSCode" height="38" width="auto" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
 <img align="center" alt="Windows" height="38" width="auto" src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" >
 <img align="center" alt="Tirando foto" height="80" width="160" src="https://github.com/Goestoso/Goestoso/assets/132786474/a3c5de05-0a70-458f-b04f-061f38a31356" >
 
 </div>
 
+
+<div align="center"> 
+
+<div align="center" >
+
+### Studying now:
+
+<img align="center" alt="Ursinho" height="100" width="80" src="https://github.com/Goestoso/Goestoso/assets/132786474/1dd64b48-85cd-48cc-8dc0-89e8f967d286" />
+<img align="center" alt="NumPy" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />           
+<img align="center" alt="Pandas" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<figure style="margin-right: 20px;">
+  <img align="center" alt="JSON" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
+   <figcaption><b>JSON</b></figcaption>
+</figure>
+
+</div>
 
 <div align="center"> 
 
