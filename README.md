@@ -45,13 +45,9 @@
 
 ### Studying now:
 
-<img align="center" alt="Ursinho" height="100" width="80" src="https://github.com/Goestoso/Goestoso/assets/132786474/1dd64b48-85cd-48cc-8dc0-89e8f967d286" />
-<img align="center" alt="NumPy" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />           
+<img align="center" alt="Ursinho" height="100" width="80" src="https://github.com/Goestoso/Goestoso/assets/132786474/1dd64b48-85cd-48cc-8dc0-89e8f967d286" />          
 <img align="center" alt="Pandas" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<figure style="margin-right: 20px;">
-  <img align="center" alt="JSON" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
-   <figcaption><b>JSON</b></figcaption>
-</figure>
+<img align="center" alt="Node" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
 </div>
 
