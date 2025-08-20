@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900C3F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=900C3F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Goes;I'm+20+years+old;I'm+from+Brazil;I'm+studying+analysis+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=900C3F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Goes;I'm+21+years+old;I'm+from+Brazil;I'm+studying+analysis+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
@@ -38,19 +38,6 @@
 
 </div>
 
-
-<div align="center"> 
-
-<div align="center" >
-
-### Studying now:
-
-<img align="center" alt="Ursinho" height="100" width="80" src="https://github.com/Goestoso/Goestoso/assets/132786474/1dd64b48-85cd-48cc-8dc0-89e8f967d286" />          
-<img align="center" alt="Pandas" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<img align="center" alt="Node" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-
-</div>
-
 <div align="center"> 
 
 ### My links:
@@ -72,15 +59,3 @@
 <img width="100%"  height="300px" src="https://github.com/Goestoso/Goestoso/assets/132786474/3d104b12-685a-4848-8c95-45619fe83ecb">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900C3F&height=120&section=footer"/>
-
-
-
-
-<!-- ![Snake animation](https://github.com/Goestoso/Goestoso/blob/output/github-contribution-grid-snake.svg)  -->
-
-
-
-
-
-
-          
