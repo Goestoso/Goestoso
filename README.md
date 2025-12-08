@@ -6,9 +6,16 @@
 
 <div align="center">
 
-<img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Goestoso&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=monokai&rank_icon=github" alt="GitStatus">
+## 📊 Goestoso GitHub Dashboard
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goestoso&layout=compact&hide_border=true&bg_color=0d1117&theme=monokai" alt="GitLangs" />
+![Goestoso GitHub Card](https://githubcard.com/Goestoso.svg?d=Buyf3kLs)
+
+<!-- <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Goestoso&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=monokai&rank_icon=github" alt="GitStatus"> -->
+
+
+<!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goestoso&layout=compact&hide_border=true&bg_color=0d1117&theme=monokai" alt="GitLangs" /> -->
+
+
 </div>
 
 ##
