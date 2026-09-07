@@ -6,9 +6,9 @@
 
 <div align="center">
 
-## 📊 Goestoso GitHub Dashboard
+<!-- ## 📊 Goestoso GitHub Dashboard -->
 
-![Goestoso GitHub Card](https://githubcard.com/Goestoso.svg?d=Buyf3kLs)
+<!-- ![Goestoso GitHub Card](https://githubcard.com/Goestoso.svg?d=Buyf3kLs) -->
 
 <!-- <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Goestoso&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=monokai&rank_icon=github" alt="GitStatus"> -->
 
@@ -39,6 +39,7 @@
 
 <img align="center" alt="GitHub" height="38" width="auto" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" >
 <img align="center" alt="VSCode" height="38" width="auto" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
+<img align="center" alt="Linux" height="38" width="auto" src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117">
 <img align="center" alt="Windows" height="38" width="auto" src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" >
 <img align="center" alt="Tirando foto" height="80" width="160" src="https://github.com/Goestoso/Goestoso/assets/132786474/a3c5de05-0a70-458f-b04f-061f38a31356" >
 
