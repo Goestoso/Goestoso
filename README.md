@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900C3F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=900C3F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Goes;I'm+21+years+old;I'm+from+Brazil;I'm+studying+analysis+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=900C3F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Goes;I'm+22+years+old;I'm+from+Brazil;I'm+studying+analysis+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
@@ -25,7 +25,6 @@
  ### Languages:
 
   <img align="center" alt="Goes-Python" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img  align="center" alt="Goes-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" > 
   <img align="center" width="40" height="50" src="https://github.com/Goestoso/Goestoso/assets/132786474/ed5a4229-9b1d-4277-91dd-3fe359b9eeee" alt="Panda">
   <img align="center" alt="Goes-HTML" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> 
   <img align="center" alt="Goes-JS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
@@ -53,9 +52,7 @@
 
 
  <img align="center" width="60" height="40" src="https://github.com/Goestoso/Goestoso/assets/132786474/bd8aa69d-8ef3-4f8b-8ba2-a60df9293883" alt="Pikachu">
-  <a href="https://www.instagram.com/goes_castro" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/gabriel-goes-de-castro-365193258" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:gabriel.goes2107@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 
